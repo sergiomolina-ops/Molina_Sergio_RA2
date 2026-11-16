@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+    <channel>
+
+        <title>Mis videojuegos favoritos</title>
+
+        <link>https://trabajoclase.com/videojuegos/</link>
+
+        <description>
+            Página web sobre mis videojuegos favoritos,
+            en la cual también se añaden sus géneros, 
+            precios y ranking personal, y por último un 
+            formulario.
+        </description>
+
+        <language>es-ES</language>
+
+        <item>
+            <title>Mi ranking de videojuegos</title>
+
+            <link>https://trabajoclase.com/videojuegos/favoritos.html</link>
+
+            <description>
+                En este apartado muestro mi ranking
+                personal de videojuegos, desde Clash
+                Royale hasta Fortnite, mi favorito.
+            </description>
+        </item>
+
+        <item>
+            <title>Géneros de los videojuegos</title>
+
+            <link>https://trabajoclase.com/videojuegos/generos.html</link>
+
+            <description>
+                Explico los diferentes géneros de mis
+                videojuegos favoritos: acción, deportes
+                y estrategia.
+            </description>
+        </item>
+
+        <item>
+            <title>Precios de los videojuegos</title>
+
+            <link>https://trabajoclase.com/videojuegos/precio.html</link>
+
+            <description>
+                Comparación de los precios de los
+                videojuegos y sus diferentes ediciones.
+            </description>
+        </item>
+
+    </channel>
+</rss>
